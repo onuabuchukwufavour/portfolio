@@ -1,5 +1,4 @@
-# 🚀 Portfolio – Onuabuchukwu Favour Chimdindu (Data Analyst)
-
+# 🚀  Onuabuchukwu Favour Chimdindu (Data Analyst)
 ## 👋 About Me  
 I am an **Entry-Level Data Analyst** with a strong foundation in **Cooperative Economics**, **Customer Relationship Management (CRM)**, and **data-driven decision making**.  
 I specialize in transforming raw data into clear, actionable insights that help organizations improve performance and enhance customer outcomes.
@@ -11,6 +10,8 @@ My analytical approach is supported by practical experience in **Excel, Python, 
 - **Email:** chimmyfavourjames@gmail.com  
 
 ---
+
+![dashborad](https://github.com/user-attachments/assets/f77c9213-29ed-4873-ad38-14a1257a4544)
 
 ## 🛠️ My Tech Stack  
 Here are the tools and technologies I use to extract, clean, analyze, and visualize data:
