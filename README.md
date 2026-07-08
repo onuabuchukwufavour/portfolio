@@ -15,6 +15,11 @@ My analytical approach is supported by practical experience in **Excel, Python, 
 
 <img width="1136" height="541" alt="Screenshot 2026-06-19 125750" src="https://github.com/user-attachments/assets/2ad85480-4550-438e-b101-05fdbce4eabf" />
 
+<img width="999" height="622" alt="Screenshot 2026-06-23 170142" src="https://github.com/user-attachments/assets/70240106-494d-4c45-81bb-a00a4972f7af" />
+
+
+
+
 ## 🛠️ My Tech Stack  
 Here are the tools and technologies I use to extract, clean, analyze, and visualize data:
 
