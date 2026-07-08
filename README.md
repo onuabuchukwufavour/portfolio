@@ -12,7 +12,8 @@ My analytical approach is supported by practical experience in **Excel, Python, 
 ---
 
 ![dashborad](https://github.com/user-attachments/assets/f77c9213-29ed-4873-ad38-14a1257a4544)
-"C:\Users\Always Life 4\Pictures\Screenshots\Screenshot 2026-06-19 125750.png"
+
+<img width="1136" height="541" alt="Screenshot 2026-06-19 125750" src="https://github.com/user-attachments/assets/2ad85480-4550-438e-b101-05fdbce4eabf" />
 
 ## 🛠️ My Tech Stack  
 Here are the tools and technologies I use to extract, clean, analyze, and visualize data:
